@@ -6,7 +6,7 @@ Description:
   </p>
 
 
-This project includes steps as follows :
+   This project includes steps as follows :
                                              ◙ Understanding the Problem statement
                                              ◙ Data Cleaning and Preprocessing
                                              ◙ Explotory data analysis (EDA)
