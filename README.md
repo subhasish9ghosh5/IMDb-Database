@@ -44,7 +44,7 @@
 - (d) Star Wars: Episode IV - A New Hope(449.94M) 
 - (e) E.T. the Extra-Terrestrial(424.45M)
 <p align="center">
-  <img width="400" height="300" src="New folder/profit movies.png">
+  <img width="500" height="300" src="New folder/profit movies.png">
 </p>
 3. Among the genres listed in the dataset, Action emerged as the top revenue-generating category, accumulating a staggering $67,599,769,950. Conversely, Thriller appeared to be the least lucrative genre, generating a comparatively modest revenue of $121,539.
 
@@ -55,15 +55,19 @@ English language films dominate in terms of production volume, indicating the pr
 
 5. English language films dominate in terms of production volume, indicating the prevalence and global reach of English-language cinema.
 <p align="center">
-  <img width="400" height="300" src="New folder/language.png">
+  <img width="500" height="300" src="New folder/language.png">
 </p>
 
 
 6. The United States leads in film production, with a staggering 2944 movies credited to its prolific industry, showcasing its robust contribution to the global cinematic landscape.
-<p align="center">
-  <img width="400" height="300" src="New folder/title vs country.png">
-</p>
+
 7. The Shawshank Redemption stands out with the highest IMDb rating of 9.3, solidifying its position as one of the most highly acclaimed films according to IMDb users.
+<p align="center">
+  <img width="500" height="300" src="New folder/imdb rate.png">
+</p>
+
+
+
 
 8. Tony Kaye and Charles Chaplin share the distinction of achieving the highest average ratings on IMDb, both holding a remarkable score of 8.6, a testament to the enduring impact and quality of their cinematic contributions
 
@@ -76,7 +80,7 @@ English language films dominate in terms of production volume, indicating the pr
 - (iv) Princess Mononoke
 - (v) Steamboy
 <p align="center">
-  <img width="400" height="300" src="New folder/top5budget movies.png">
+  <img width="500" height="300" src="New folder/top5budget movies.png">
 </p>
 
 
@@ -85,16 +89,14 @@ English language films dominate in terms of production volume, indicating the pr
 
 11. According to the dataset, the film 'Avatar', released in 2009, emerges as the most profitable movie, with earnings totaling an impressive $523.51 million. This figure underscores the tremendous success of James Cameron's groundbreaking sci-fi epic, solidifying its status not only as a cultural phenomenon but also as a commercial powerhouse in the film industry.
 <p align="center">
-  <img width="400" height="300" src="New folder/profit movies.png">
+  <img width="500" height="300" src="New folder/profit movies.png">
 </p>
 
 
 
-12. Analysis of the dataset reveals that films originating from China achieve the highest average IMDb score, standing at an impressive 7.01. This noteworthy rating underscores the quality and appeal of Chinese cinema among global audiences. On the other end of the spectrum, Canadian films exhibit the lowest average IMDb score, resting at 6.22. While Canada boasts a vibrant film industry, this lower average rating suggests varying reception or perhaps a smaller volume of productions compared to other countries represented in the dataset. These findings shed light on the diverse landscape of international cinema and the differing levels of acclaim garnered by films from different regions.
+12. Analysis of the dataset reveals that films originating from West Germany achieve the highest average IMDb score, standing at an impressive 8.4. This noteworthy rating underscores the quality and appeal of Garmanese cinema among global audiences. On the other end of the spectrum, NewLine films exhibit the lowest average IMDb score, resting at 4.4. While NewLine boasts a vibrant film industry, this lower average rating suggests varying reception or perhaps a smaller volume of productions compared to other countries represented in the dataset. These findings shed light on the diverse landscape of international cinema and the differing levels of acclaim garnered by films from different regions.
 
-<p align="center">
-  <img width="500" height="300" src="New folder/movies realease per year.png">
-</p>
+
 
 
 
