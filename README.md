@@ -37,7 +37,7 @@
 -
 1.The United States stands out as the leading revenue contributor, boasting a substantial gross revenue of $165,614.16 million. On the opposite end of the spectrum, Sweden reported the lowest gross revenue, a minimal $0.01 million.
 <p align="center">
-  <img width="600" height="300" src="New folder/ZZ4DBD2C64.jpg">
+  <img width="600" height="300" src="New folder/1.png">
 2.
 - (a) Avatar(523.51M) 
 - (b) Jurassic World(502.18M) 
