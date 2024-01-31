@@ -102,6 +102,7 @@ English language films dominate in terms of production volume, indicating the pr
 
 ### **Final Conclusion** - The findings illuminate the global film industry's dynamics, with the United States leading in both production volume and revenue. Genres such as Action and Drama resonate strongly, with English-language films enjoying widespread appeal. Standout titles like "The Shawshank Redemption" and "Avatar" underscore the enduring influence of exceptional storytelling. However, disparities in IMDb ratings between countries like China and Canada hint at varied cultural receptions and appreciation levels.
 
-**Authors** -https://github.com/subhasish9ghosh5
+**Authors** 
+-[@subhasish9ghosh5](https://github.com/subhasish9ghosh5)
 
-Subhasish Ghosh - All work
+Subhasish Ghosh - Data Analyst
