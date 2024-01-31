@@ -7,10 +7,10 @@ Description:
 
 
 This project includes steps as follows :
-                                   ◙ Understanding the Problem statement
-                                   ◙ Data Cleaning and Preprocessing
-                                   ◙ Explotory data analysis (EDA)
-                                   ◙ Data visualization
+                                             ◙ Understanding the Problem statement
+                                             ◙ Data Cleaning and Preprocessing
+                                             ◙ Explotory data analysis (EDA)
+                                             ◙ Data visualization
 
 
 The project also answered important questions such as :-
