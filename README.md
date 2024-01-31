@@ -66,3 +66,10 @@ The project also answered important questions such as :-
 11. According to the dataset, the film 'Avatar', released in 2009, emerges as the most profitable movie, with earnings totaling an impressive $523.51 million. This figure underscores the tremendous success of James Cameron's groundbreaking sci-fi epic, solidifying its status not only as a cultural phenomenon but also as a commercial powerhouse in the film industry.
 
 12. Analysis of the dataset reveals that films originating from China achieve the highest average IMDb score, standing at an impressive 7.01. This noteworthy rating underscores the quality and appeal of Chinese cinema among global audiences. On the other end of the spectrum, Canadian films exhibit the lowest average IMDb score, resting at 6.22. While Canada boasts a vibrant film industry, this lower average rating suggests varying reception or perhaps a smaller volume of productions compared to other countries represented in the dataset. These findings shed light on the diverse landscape of international cinema and the differing levels of acclaim garnered by films from different regions.
+
+Final Conclusion - The findings illuminate the global film industry's dynamics, with the United States leading in both production volume and revenue. Genres such as Action and Drama resonate strongly, with English-language films enjoying widespread appeal. Standout titles like "The Shawshank Redemption" and "Avatar" underscore the enduring influence of exceptional storytelling. However, disparities in IMDb ratings between countries like China and Canada hint at varied cultural receptions and appreciation levels.
+
+Authors
+-https://github.com/subhasish9ghosh5
+
+Subhasish Ghosh - Data Analyst - Subhasish Ghosh - All work    
