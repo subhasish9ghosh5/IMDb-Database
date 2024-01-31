@@ -1,4 +1,4 @@
-# **IMDb**
+# ***IMDb***
 
 Description:
              This IMDb dataset encompasses a rich repository of film and television data sourced from the Internet Movie Database (IMDb). It encompasses a diverse array of information including movie titles, release dates, genres, ratings, box office earnings, cast and crew details, user reviews, and plot summaries. With its extensive coverage spanning decades of cinematic history and global productions, this dataset offers invaluable insights for research, analysis, and modeling in areas such as film studies, recommendation systems, sentiment analysis, and more within the realm of entertainment analytics.
@@ -8,10 +8,10 @@ Description:
   </p>
 
    This project includes steps as follows :
-                                             - Understanding the Problem statement                                                                                                                               ◙ 
-                                             - Data Cleaning and Preprocessing
-                                             * Explotory data analysis (EDA)
-                                             * Data visualization
+   -Understanding the Problem statement
+   -Data Cleaning and Preprocessing
+   -Explotory data analysis (EDA)
+   -Data visualization
 
 <p align="center">
   <img width="800" height="300" src="New folder/yceo3xk3of14d3hbdkdp.webp">
