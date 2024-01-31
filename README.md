@@ -40,7 +40,9 @@ The project also answered important questions such as :-
    (e) E.T. the Extra-Terrestrial(424.45M)
 
 3. Among the genres listed in the dataset, Action emerged as the top revenue-generating category, accumulating a staggering $67,599,769,950. Conversely, Thriller appeared to be the least lucrative genre, generating a comparatively modest revenue of $121,539.
-
+ <p align="center">
+  <img width="800" height="300" src="New folder/genre budget.png">
+  </p>
 4. In India, Drama emerges as the predominant genre in film production, indicating its widespread popularity and cultural significance within the Indian film industry.
 
 5. English language films dominate in terms of production volume, indicating the prevalence and global reach of English-language cinema.
