@@ -8,10 +8,10 @@ Description:
   </p>
 
    This project includes steps as follows :
-   1.Understanding the Problem statement
-   1.Data Cleaning and Preprocessing
-   1.Explotory data analysis (EDA)
-   1.Data visualization
+   Understanding the Problem statement
+   _Data Cleaning and Preprocessing
+    _Explotory data analysis (EDA)
+     _Data visualization
 
 <p align="center">
   <img width="800" height="300" src="New folder/yceo3xk3of14d3hbdkdp.webp">
