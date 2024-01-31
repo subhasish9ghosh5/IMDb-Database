@@ -42,7 +42,7 @@
 - (d) Star Wars: Episode IV - A New Hope(449.94M) 
 - (e) E.T. the Extra-Terrestrial(424.45M)
 
-3.Among the genres listed in the dataset, Action emerged as the top revenue-generating category, accumulating a staggering $67,599,769,950. Conversely, Thriller appeared to be the least lucrative genre, generating a comparatively modest revenue of $121,539.
+3. Among the genres listed in the dataset, Action emerged as the top revenue-generating category, accumulating a staggering $67,599,769,950. Conversely, Thriller appeared to be the least lucrative genre, generating a comparatively modest revenue of $121,539.
 
 
 
